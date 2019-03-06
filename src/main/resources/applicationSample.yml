@@ -1,0 +1,8 @@
+server:
+  port: 6001
+
+spring:
+  data:
+    mongodb:
+      database: Weather
+      uri: mongodb://dbuser:dbpassword@dbhost:dbport/
