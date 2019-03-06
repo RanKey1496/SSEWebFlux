@@ -1,8 +1,0 @@
-server:
-  port: 6001
-
-spring:
-  data:
-    mongodb:
-      database: Weather
-      uri: mongodb://rankey:jimbo@68.183.113.35:27017/
